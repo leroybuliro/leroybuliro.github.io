@@ -1,1 +1,1 @@
-Landing page for my site [leroy.buliro.net](https://leroy.buliro.net)
+Landing page for my site [www.buliro.net](https://www.buliro.net)
